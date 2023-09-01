@@ -11,7 +11,7 @@
 </p>
 
  -->
-
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <a href="https://komarev.com/ghpvc/?username=Yahiasherif002">
   <img align="right" src="https://komarev.com/ghpvc/?username=Yahiasherif002&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Telegram Me 」</a>
+    <a href="https://t.me/Yahiasheriif">「 Telegram Me 」</a>
     <br>
     「 I am a Software Engineer <b>in development<b> 」
     <br>
@@ -40,16 +40,16 @@
 <p align="center">
 
  <a href="https://www.linkedin.com/in/yahia-sherif-6b5082255/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/Yahia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yahia"/>
  </a>
  <a href="https://twitter.com/Yahiasheriif" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yahia-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/Yahiasheriif_ibrahim" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Yahia-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Yahia" />
  </a> 
  <a href="https://facebook.com/yahia.sherif.18" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Yahia-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Yahia"  />
   </a> 
 </p>
 <br />
@@ -58,7 +58,7 @@
  # About me
  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer 
@@ -86,10 +86,13 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/al-folio)
-[![Yahia Readme](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/Yahiasherif002)
-[![Yahia Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/Yahiasherif002.github.io)
+<p align="left">
+  <a href="https://github.com/Yahiasherif002?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=omarwaleed7&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omarwaleed7/IT_Project)
+
+[![Yahia Readme](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=Yahiasherif002&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/Yahiasherif002)
+
 
 <p align="left">
   <a href="https://github.com/Yahiasherif002?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -107,7 +110,7 @@
 
 <p align="center">
   <a href="https://github.com/Yahiasherif002">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Yahia's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahiasherif002&theme=radical" alt="Yahia's GitHub Contribution"/>
   </a>
 </p>
 
@@ -118,5 +121,4 @@
 </a>
 
 
-![Yahia's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yahiasherif002&custom_title=YA%20Hia's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
