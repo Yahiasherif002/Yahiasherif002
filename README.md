@@ -17,8 +17,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/github/Yahiasherif002/Yahiasherif002.svg)](https://wakatime.com/badge/github/Yahiasherif002/Yahiasherif002)
-
+[![wakatime](https://wakatime.com/badge/user/462ec29e-0bc8-43ac-add1-5948d161994a.svg)](https://wakatime.com/@462ec29e-0bc8-43ac-add1-5948d161994a)
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
