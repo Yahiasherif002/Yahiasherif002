@@ -105,7 +105,7 @@
 
 <p align="center">
   <a href="https://github.com/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahiasherif002&theme=radical&border=7F3FBF&background=0D1117" alt="Yahia's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com?user=Yahiasherif002&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats"/>
   </a>
 </p>
 
