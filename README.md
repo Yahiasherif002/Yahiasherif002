@@ -87,14 +87,22 @@
 ## Top Open Source -
 <p align="left">
   <a href="https://github.com/Yahiasherif002?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+
 
 
 [![Yahia Readme](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=Yahiasherif002&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/Yahiasherif002)
 
  [![descrete](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=descreteProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/descreteProject)
 
- [![BubbleSort](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=BubbleSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/BubbleSort)
+ [![BubbleSort](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=BubbleSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/BubbleSort) 
+ </p>
+ 
+<p align="right">
+  
+
+ [![InsertionSort](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=InsertionSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/InsertionSort)
+
+  [![InsertionSort](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=MergeSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/MergeSort)
 
 
 </p>
