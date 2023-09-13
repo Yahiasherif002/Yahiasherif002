@@ -120,8 +120,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/Yahiasherif002"><img alt="Yahia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&count_private=true" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Yahiasherif002"><img alt="Yahia' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&layout=compact"height=192px" width="49.5%"/></a>
+    <a href="https://github.com/Yahiasherif002"><img alt="Yahia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&count_private=true" /></a>
+  <a href="https://github.com/Yahiasherif002"><img alt="Yahia' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&layout=compact"height=192px/></a>
   <br/>
 </a>
 
