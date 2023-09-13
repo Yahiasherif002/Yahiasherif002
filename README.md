@@ -104,6 +104,12 @@
 
   [![InsertionSort](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=MergeSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/MergeSort)
 
+  [![BinarySearch](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=HeapSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/HeapSort)
+
+
+  [![BinarySearch](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=BinarySearch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/BinarySearch)
+
+
 
 </p>
 
@@ -111,6 +117,8 @@
 <hr/>
 <br/>
 
+<!--![Yahiasherif002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![Yahiasherif002's Stats](https://github-readme-stats.vercel.app/api?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&count_private=true)-->
 <p align="center">
   <a href="https://github.com/">
     <img src="https://streak-stats.demolab.com?user=Yahiasherif002&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats"/>
@@ -119,13 +127,13 @@
 
 <p align="center">
   <a href="https://github.com/Yahiasherif002">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahiasherif002&theme=radical" alt="Yahia's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahiasherif002&theme=onedark" alt="Yahia's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Yahiasherif002"><img alt="Yahia's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Yahiasherif002&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Yahiasherif002"><img alt="Yahia' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Yahiasherif002"><img alt="Yahia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&count_private=true" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Yahiasherif002"><img alt="Yahia' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&layout=compact"height=192px" width="49.5%"/></a>
   <br/>
 </a>
 
