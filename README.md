@@ -16,7 +16,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://t.me/Yahiasheriif">「 Telegram Me 」</a>
+    <a href="https://t.me/Yahiasheriif">「 contact Me 」</a>
     <br>
     「 I am a Software Engineer <b>in development<b> 」
     <br>
@@ -50,7 +50,7 @@
 
 <!--- 🏢 I'm a Software Engineer -->
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- ⚡  Fact: I'm a coffee enthusiast
 
 ## Use To Code
 
