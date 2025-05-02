@@ -32,7 +32,7 @@
  <a href="https://twitter.com/Yahiasheriif" target="_blank">
   <img src="https://img.shields.io/badge/Yahia-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/Yahiasheriif_ibrahim" target="_blank">
+ <a href="https://instagram.com/Yahغasheriif_" target="_blank">
   <img src="https://img.shields.io/badge/Yahia-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Yahia" />
  </a> 
  <a href="https://facebook.com/yahia.sherif.18" target="_blank">
@@ -48,70 +48,110 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+
 <!--- 🏢 I'm a Software Engineer -->
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🧠 I’m currently learning **Back-End, DevOps, Clean Architecture, Cloud Computing, and System Design**
 - ⚡  Fact: I'm a coffee enthusiast
+- 📫 How to reach me **yahyasheriif@gmail.com**
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/yahia-sherif-52942b280/)
 
 ## Use To Code
 
-<!--![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!--![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)-->
+### 🧠 Languages & Technologies
 ![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🗃️ Databases & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-01C3E3?style=for-the-badge&logo=dapper&logoColor=black)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-0A9F84?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🔐 Authentication & Testing
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit.net-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🧰 Tools & IDEs
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📚 Learning & Certifications
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 <br/>
 
-## Top Open Source -
-<p align="left">
-  <a href="https://github.com/Yahiasherif002?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+## 🚀 Top Open Source Projects
 
-
-
-[![Yahia Readme](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=Yahiasherif002&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/Yahiasherif002)
-
- [![descrete](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=descreteProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/descreteProject)
-
- [![BubbleSort](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=BubbleSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/BubbleSort) 
- </p>
- 
-<p align="right">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Yahiasherif002/LeetCode-solving" target="_blank">
+        <img alt="LeetCode-solving" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=LeetCode-solving&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Yahiasherif002/SmartTollSystem" target="_blank">
+        <img alt="Smart Radar Toll System" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=SmartTollSystem&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Yahiasherif002/Buljy-E-Commerce-MVC" target="_blank">
+        <img alt="Buljy-E-Commerce-MVC" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=Buljy-E-Commerce-MVC&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Yahiasherif002/x86-microkernel" target="_blank">
+        <img alt="x86-microkernel" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=x86-microkernel&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Yahiasherif002/InstaPayWalletManager" target="_blank">
+        <img alt="InstaPayWalletManager" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=InstaPayWalletManager&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Yahiasherif002/OrdersAPI" target="_blank">
+        <img alt="OrdersAPI" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=OrdersAPI&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
+      </a>
+    </td>
+  </tr>
   
+</table>
 
- [![InsertionSort](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=InsertionSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/InsertionSort)
-
-  [![InsertionSort](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=MergeSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/MergeSort)
-
-  [![BinarySearch](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=HeapSort&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/HeapSort)
-
-
-  [![BinarySearch](https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=BinarySearch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yahiasherif002/BinarySearch)
-
-
-
+<p align="center">
+  <a href="https://github.com/Yahiasherif002?tab=repositories" target="_blank">
+    <img alt="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
 <hr/>
 <br/>
 
-<!--![Yahiasherif002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-![Yahiasherif002's Stats](https://github-readme-stats.vercel.app/api?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&count_private=true)-->
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://streak-stats.demolab.com?user=Yahiasherif002&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Yahiasherif002">
@@ -119,10 +159,16 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Yahiasherif002"><img alt="Yahia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&count_private=true" /></a>
-  <a href="https://github.com/Yahiasherif002"><img alt="Yahia' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&layout=compact"height=192px/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/Yahiasherif002">
+    <img alt="Yahia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yahiasherif002">
+    <img alt="Yahia' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&layout=compact" height="192px"/>
+  </a>
+</p>
 
 
