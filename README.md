@@ -18,7 +18,7 @@
   <samp>
     <a href="https://t.me/Yahiasheriif">「 contact Me 」</a>
     <br>
-    「  I am an engineer <b>in software and data<b> 」
+     <b>「I am an engineer in software and data<b> 」
     <br>
     <br>
   </samp>
