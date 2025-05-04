@@ -18,7 +18,7 @@
   <samp>
     <a href="https://t.me/Yahiasheriif">「 contact Me 」</a>
     <br>
-    「 I am a Software Engineer <b>in development<b> 」
+    「  I am an engineer <b>in software and data<b> 」
     <br>
     <br>
   </samp>
@@ -51,7 +51,7 @@
 
 <!--- 🏢 I'm a Software Engineer -->
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🧠 I’m currently learning **Back-End, DevOps, Clean Architecture, Cloud Computing, and System Design**
+- 🧠 I’m currently learning **Back-End, DevOps, Data Engineering, Cloud Computing, and System Design**
 - ⚡  Fact: I'm a coffee enthusiast
 - 📫 How to reach me **yahyasheriif@gmail.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/yahia-sherif-52942b280/)
