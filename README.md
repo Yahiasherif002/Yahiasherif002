@@ -1,174 +1,115 @@
+<div align="center">
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-<a href="https://komarev.com/ghpvc/?username=Yahiasherif002">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Yahiasherif002&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yahia%20Sherif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Data%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
 
-
-[![wakatime](https://wakatime.com/badge/user/462ec29e-0bc8-43ac-add1-5948d161994a.svg)](https://wakatime.com/@462ec29e-0bc8-43ac-add1-5948d161994a)
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/Yahiasherif002">Yahia Sherif</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    <a href="https://t.me/Yahiasheriif">「 contact Me 」</a>
-    <br>
-     <b>「I am an engineer in software and data<b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
-
- <a href="https://www.linkedin.com/in/yahia-sherif-6b5082255/" target="_blank">
-  <img src="https://img.shields.io/badge/Yahia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yahia"/>
- </a>
- <a href="https://twitter.com/Yahiasheriif" target="_blank">
-  <img src="https://img.shields.io/badge/Yahia-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/Yahغasheriif_" target="_blank">
-  <img src="https://img.shields.io/badge/Yahia-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Yahia" />
- </a> 
- <a href="https://facebook.com/yahia.sherif.18" target="_blank">
-  <img src="https://img.shields.io/badge/Yahia-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Yahia"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer;Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
-
-<!--- 🏢 I'm a Software Engineer -->
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🧠 I’m currently learning **Back-End, DevOps, Data Engineering, Cloud Computing, and System Design**
-- ⚡  Fact: I'm a coffee enthusiast
-- 📫 How to reach me **yahyasheriif@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/yahia-sherif-52942b280/)
-
-## Use To Code
-
-### 🧠 Languages & Technologies
-![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🗃️ Databases & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-01C3E3?style=for-the-badge&logo=dapper&logoColor=black)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-0A9F84?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### 🔐 Authentication & Testing
-![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit.net-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🧰 Tools & IDEs
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 📚 Learning & Certifications
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Back-End+Engineer+%7C+Python+%26+Go;Data+Engineering+%7C+ETL+Pipelines;Cloud+%26+DevOps+%7C+AWS+%2B+Docker;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-## 🚀 Top Open Source Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-sherif-6b5082255/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Yahiasheriif)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yahyasheriif@gmail.com)
+[![WakaTime](https://wakatime.com/badge/user/462ec29e-0bc8-43ac-add1-5948d161994a.svg?style=flat-square)](https://wakatime.com/@462ec29e-0bc8-43ac-add1-5948d161994a)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yahiasherif002&label=Profile%20Views&color=58A6FF&style=flat-square)](https://github.com/Yahiasherif002)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Yahiasherif002/LeetCode-solving" target="_blank">
-        <img alt="LeetCode-solving" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=LeetCode-solving&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Yahiasherif002/SmartTollSystem" target="_blank">
-        <img alt="Smart Radar Toll System" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=SmartTollSystem&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Yahiasherif002/Buljy-E-Commerce-MVC" target="_blank">
-        <img alt="Buljy-E-Commerce-MVC" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=Buljy-E-Commerce-MVC&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Yahiasherif002/x86-microkernel" target="_blank">
-        <img alt="x86-microkernel" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=x86-microkernel&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Yahiasherif002/InstaPayWalletManager" target="_blank">
-        <img alt="InstaPayWalletManager" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=InstaPayWalletManager&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Yahiasherif002/OrdersAPI" target="_blank">
-        <img alt="OrdersAPI" src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=OrdersAPI&border_color=282C34&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E06C75"/>
-      </a>
-    </td>
-  </tr>
-  
-</table>
+</div>
 
-<p align="center">
+---
+
+## About Me
+
+I'm a **Software & Data Engineer** passionate about building scalable back-end systems, data pipelines, and cloud-native architectures. I enjoy working across the full engineering stack — from designing APIs and databases to orchestrating infrastructure and deploying production-grade services.
+
+- 🔭 Currently building production-scale distributed systems and data platforms
+- 🌱 Deep-diving into **System Design**, **Data Engineering**, and **Cloud Architecture**
+- 🏗️ Experienced with microservices, event-driven systems, and REST/GraphQL APIs
+- 📜 AWS Certified Cloud Practitioner
+- ☕ Powered by coffee and curiosity
+- 📫 Reach me at **yahyasheriif@gmail.com**
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Back-End & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Domain Expertise
+![FinTech](https://img.shields.io/badge/FinTech-00C853?style=flat-square&logo=stripe&logoColor=white)
+![Payments](https://img.shields.io/badge/Payments-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Multi--Tenancy](https://img.shields.io/badge/Multi--Tenancy-0D1117?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Tools & Auth
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+
+
+<div align="center">
   <a href="https://github.com/Yahiasherif002?tab=repositories" target="_blank">
-    <img alt="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D"/>
   </a>
-</p>
+</div>
 
-<br/>
-<hr/>
-<br/>
+---
 
+## GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yahiasherif002&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="180px"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Yahiasherif002">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahiasherif002&theme=onedark" alt="Yahia's GitHub Contribution"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahiasherif002&theme=github-dark-blue&hide_border=true" width="60%"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Yahiasherif002">
-    <img alt="Yahia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahiasherif002&theme=github_dark" width="90%"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Yahiasherif002">
-    <img alt="Yahia' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=onedark&show_icons=true&hide_border=true&layout=compact" height="192px"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiasherif002&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+</div>
 
+---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
