@@ -116,10 +116,6 @@ I'm a **Software Engineer** focused on back-end systems, APIs, and data pipeline
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahiasherif002&theme=github_dark" width="90%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiasherif002&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
-</div>
-
 ---
 
 <div align="center">
