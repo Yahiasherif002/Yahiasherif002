@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yahia%20Sherif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Data%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yahia%20Sherif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Back-End%20%26%20Data&descAlignY=51&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Back-End+Engineer+%7C+Python+%26+Go;Data+Engineering+%7C+ETL+Pipelines;Cloud+%26+DevOps+%7C+AWS+%2B+Docker;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Back-End+Engineer+%7C+Python+%26+C%23;Building+NUMU+%7C+Multi-Tenant+E-Commerce;APIs+%7C+Data+Pipelines+%7C+Cloud;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,14 +18,27 @@
 
 ## About Me
 
-I'm a **Software & Data Engineer** passionate about building scalable back-end systems, data pipelines, and cloud-native architectures. I enjoy working across the full engineering stack — from designing APIs and databases to orchestrating infrastructure and deploying production-grade services.
+I'm a **Software Engineer** focused on back-end systems, APIs, and data pipelines, mostly in Python and C#. I like owning a system end to end: designing the API and the database, wiring up the background jobs, and shipping it to production.
 
-- 🔭 Currently building production-scale distributed systems and data platforms
+- 🔭 Currently building [**NUMU**](https://numueg.app), a multi-tenant e-commerce platform: the FastAPI backend (payments, shipping, COD reconciliation, tenant isolation), the merchant dashboard, the Next.js storefront, and a [theme SDK](https://github.com/NUMU-IO/numu-theme-sdk) + CLI for third-party theme developers
 - 🌱 Deep-diving into **System Design**, **Data Engineering**, and **Cloud Architecture**
-- 🏗️ Experienced with microservices, event-driven systems, and REST/GraphQL APIs
+- 🏗️ Experienced with REST APIs, background job processing, and multi-tenant SaaS
 - 📜 AWS Certified Cloud Practitioner
 - ☕ Powered by coffee and curiosity
 - 📫 Reach me at **yahyasheriif@gmail.com**
+
+---
+
+## Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Yahiasherif002/claude-skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=claude-skills&theme=github_dark&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/stock_alerts_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=stock_alerts_project&theme=github_dark&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/support-memory-reliability-layer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=support-memory-reliability-layer&theme=github_dark&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/Data-Engineering-Roadmap-2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=Data-Engineering-Roadmap-2026&theme=github_dark&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/SmartTollSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=SmartTollSystem&theme=github_dark&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/LeetCode-solving"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=LeetCode-solving&theme=github_dark&hide_border=true" width="49%"/></a>
+</div>
 
 ---
 
@@ -33,9 +46,7 @@ I'm a **Software & Data Engineer** passionate about building scalable back-end s
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -46,13 +57,15 @@ I'm a **Software & Data Engineer** passionate about building scalable back-end s
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Front-End
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -62,6 +75,7 @@ I'm a **Software & Data Engineer** passionate about building scalable back-end s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -78,8 +92,6 @@ I'm a **Software & Data Engineer** passionate about building scalable back-end s
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
-
 
 <div align="center">
   <a href="https://github.com/Yahiasherif002?tab=repositories" target="_blank">
