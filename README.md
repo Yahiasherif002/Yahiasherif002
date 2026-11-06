@@ -32,12 +32,12 @@ I'm a **Software Engineer** focused on back-end systems, APIs, and data pipeline
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Yahiasherif002/claude-skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=claude-skills&theme=github_dark&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/Yahiasherif002/stock_alerts_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=stock_alerts_project&theme=github_dark&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/Yahiasherif002/support-memory-reliability-layer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=support-memory-reliability-layer&theme=github_dark&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/Yahiasherif002/Data-Engineering-Roadmap-2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=Data-Engineering-Roadmap-2026&theme=github_dark&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/Yahiasherif002/SmartTollSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=SmartTollSystem&theme=github_dark&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/Yahiasherif002/LeetCode-solving"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahiasherif002&repo=LeetCode-solving&theme=github_dark&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/claude-skills"><img src="./profile/pin-claude-skills.svg" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/stock_alerts_project"><img src="./profile/pin-stock_alerts_project.svg" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/support-memory-reliability-layer"><img src="./profile/pin-support-memory-reliability-layer.svg" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/Data-Engineering-Roadmap-2026"><img src="./profile/pin-Data-Engineering-Roadmap-2026.svg" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/SmartTollSystem"><img src="./profile/pin-SmartTollSystem.svg" width="49%"/></a>
+  <a href="https://github.com/Yahiasherif002/LeetCode-solving"><img src="./profile/pin-LeetCode-solving.svg" width="49%"/></a>
 </div>
 
 ---
@@ -104,8 +104,8 @@ I'm a **Software Engineer** focused on back-end systems, APIs, and data pipeline
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yahiasherif002&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiasherif002&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="180px"/>
+  <img src="./profile/stats.svg" height="180px"/>
+  <img src="./profile/top-langs.svg" height="180px"/>
 </div>
 
 <div align="center">

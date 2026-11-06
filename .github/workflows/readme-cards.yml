@@ -1,0 +1,78 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=github_dark&hide_border=true&layout=compact&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=claude-skills&theme=github_dark&hide_border=true
+          path: profile/pin-claude-skills.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=stock_alerts_project&theme=github_dark&hide_border=true
+          path: profile/pin-stock_alerts_project.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=support-memory-reliability-layer&theme=github_dark&hide_border=true
+          path: profile/pin-support-memory-reliability-layer.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Data-Engineering-Roadmap-2026&theme=github_dark&hide_border=true
+          path: profile/pin-Data-Engineering-Roadmap-2026.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=SmartTollSystem&theme=github_dark&hide_border=true
+          path: profile/pin-SmartTollSystem.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=LeetCode-solving&theme=github_dark&hide_border=true
+          path: profile/pin-LeetCode-solving.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
